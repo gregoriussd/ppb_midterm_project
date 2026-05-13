@@ -1,0 +1,28 @@
+0 Aceh
+1 Barong
+2 Merak
+3 Betawi
+4 Corak Insang
+5 Ondel-ondel
+6 Megamendung
+7 Pring
+8 Dayak
+9 Gajah
+10 Lasem
+11 Mataketeran
+12 Pala
+13 Lumbung
+14 Asmat
+15 Cendrawasih
+16 Tifa
+17 Priangan
+18 Sekar Jagad
+19 Sidoluhur
+20 Sidomukti
+21 Sogan
+22 Lontara
+23 Rumah Minang
+24 Boraspati
+25 Tambal
+26 Kawung
+27 Parang
